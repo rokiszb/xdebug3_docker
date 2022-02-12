@@ -1,4 +1,4 @@
-# xdebug3_docker
+# xdebug3 docker php
 
 Instructions for xdebug3 setup for WSL2 docker, php
 
